@@ -9,7 +9,7 @@
 
 ![A6A84196-677C-40A8-9AEC-4708EF5560C1](https://github.com/user-attachments/assets/e1416a38-dcc3-47ae-a4bd-ccd2b1866b9b)
 
-REPRA, kullanıcıların antrenmanlarını oluşturup set/tekrar bazlı takip edebildiği sade ve hızlı bir fitness takip uygulamasıdır.
+REPRA is a minimal and fast workout tracker that lets users create workouts and track them set-by-set / rep-by-rep.
 
 ## About Me
 
