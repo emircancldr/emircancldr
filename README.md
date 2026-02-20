@@ -1,6 +1,4 @@
-# 💫 About Me:
-# Emircan Çaldır (emircancldr)<br><br>**Mobile App Developer (React Native) | Backend Developer (.NET) | Computer Engineering (English) — 3rd year**<br><br>TR: React Native ile üretim kalitesinde mobil uygulamalar geliştiriyor; backend tarafında .NET ve REST API’lerle sürdürülebilir sistemler tasarlıyorum.  <br>EN: I build production-ready mobile apps with React Native and design maintainable backend services with .NET and REST APIs.
-
+# Hİ,I'm Emircan Çaldır 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emircancldr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/emircancaldir/)](https://www.linkedin.com/in/emircancaldir/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emircancaldir02@gmail.com) 
