@@ -11,6 +11,14 @@
 
 REPRA is a minimal and fast workout tracker that lets users create workouts and track them set-by-set / rep-by-rep.
 
+# YKS Sıralama Hesaplayıcı — YKS'tahmini sıralamana uygun üniversiteler ve konumları
+
+[App Store Link](https://apps.apple.com/tr/app/yks-siralama-hesaplayici/id6760377290?l=tr)
+
+<img width="3897" height="2050" alt="F5779B30-7C23-4017-8963-5716F39EE5F2" src="https://github.com/user-attachments/assets/f4f0e410-e2a2-4d3f-a6ef-6a5729653c7d" />
+
+Find out your estimated ranking and score instantly according to the current YKS (TYT-AYT-YDT) coefficients! View the universities and their locations that match your ranking!
+
 # YKS Porsuğu — YKS'ye Dair Her Şey 
 
 [App Store Link](https://apps.apple.com/tr/app/yks-porsu%C4%9Fu/id6762938308?l=tr)
