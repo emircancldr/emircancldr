@@ -15,7 +15,7 @@ REPRA is a minimal and fast workout tracker that lets users create workouts and 
 
 [App Store Link](https://apps.apple.com/tr/app/yks-porsu%C4%9Fu/id6762938308?l=tr)
 
-/Users/emircancaldir/Downloads/7AB0FC44-933B-4B11-A115-090AF19BCB69.JPEG
+<img width="3897" height="2050" alt="7AB0FC44-933B-4B11-A115-090AF19BCB69" src="https://github.com/user-attachments/assets/95fb11aa-66b8-4c56-8326-29c64f5d2576" />
 
 This is an exam preparation application I developed for students preparing for the YKS exam.
 
